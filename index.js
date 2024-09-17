@@ -16,3 +16,5 @@ app.use('/api', userRoutes);
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
+
+//hellow this is madhu
